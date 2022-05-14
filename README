@@ -1,0 +1,6 @@
+Commands
+
+yarn prisma init - Initialize default prisma schema
+yarn prisma studio - Initialize prisma studio to manipulate datasource
+yarn prisma db push - Read schema and update your database
+yarn prisma generate - Generate prisma schema
